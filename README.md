@@ -1,4 +1,4 @@
-# FIFAPlayersDashboard
-Shiny Dashboard of FIFA players
+# FIFA Players Dashboard
+Shiny Dashboard displaying significant insights of FIFA players in three different leagues
 
-demo can be found [here](https://deepakprasad.shinyapps.io/Assignment3/)
+Demo can be found [here](https://deepakprasad.shinyapps.io/Assignment3/)
